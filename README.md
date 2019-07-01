@@ -1,2 +1,2 @@
 # build_testing
-panda x3
+weenie hut jr
