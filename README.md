@@ -1,2 +1,2 @@
 # build_testing
-chilis?
+panda x3
